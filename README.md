@@ -1,12 +1,17 @@
 # employee-tracker
+
 ![image](https://user-images.githubusercontent.com/101163927/190309245-a625a75f-418c-4f9c-986c-0de402c14ce9.png)
 
 
 
 
+
 To install:
+
 npm install mysql2
+
 npm install inquirer
+
 npm install console.table --save
 
 
